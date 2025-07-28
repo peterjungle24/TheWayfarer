@@ -1,0 +1,14 @@
+{
+	"id": "scene_sleep_theWayfarer",
+	"scene_folder": "scenes/sleep - Wayfarer",
+	"images": [
+		{
+			"name": "sleepy_theWayfare",
+			"pos": [ 498, -38 ],
+			"depth": 3,
+			"shader": "Basic"
+		}
+	],
+	"idle_depths": [ 2.9 ],
+	"sleep scene_depth": 3.0
+}

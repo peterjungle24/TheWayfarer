@@ -1,0 +1,12 @@
+{
+	"id": "mod.the_wayfarer",
+	"name": "The Wayfarer",
+	"version": "0.1.0",
+	"target_game_version" : "v1.10.4",
+	"authors": [ "ChefBananex" ],
+	"description": "A mod request from ChefBananex",
+	"requirements": [ "slime-cubed.slugbase" ],
+	"requirements_names": [ "SlugBase" ],
+	"tags": [ "Custom Slugcat" ],
+	"checksum_override_version" : false
+}
